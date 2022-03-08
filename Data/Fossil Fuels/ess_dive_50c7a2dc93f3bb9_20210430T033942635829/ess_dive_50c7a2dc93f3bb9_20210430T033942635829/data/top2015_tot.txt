@@ -1,0 +1,235 @@
+Ranking of the world's countries by 2015 total CO2 emissions from fossil-fuel
+burning, cement production, and gas flaring. Emissions (CO2_TOT) are
+expressed in thousand metric tons of carbon (not CO2).  To convert these
+estimates to units of carbon dioxide (CO2), simply multiply these estimates
+by 3.667.
+
+SOURCE:  Dennis Gilfillan and Gregg Marland
+         Research Institute for Environment, Energy, and Economics
+         Appalachian State University
+         Boone, NC 28608-2131 USA
+with     Tom Boden and Bob Andres, retired
+
+
+
+RANK     NATION                                                      CO2_TOT
+1        CHINA (MAINLAND)                                             2766568
+2        UNITED STATES OF AMERICA                                     1403759
+3        INDIA                                                         634874
+4        RUSSIAN FEDERATION                                            463077
+5        JAPAN                                                         316214
+6        SAUDI ARABIA                                                  200273
+7        GERMANY                                                       198267
+8        ISLAMIC REPUBLIC OF IRAN                                      177278
+9        REPUBLIC OF KOREA                                             162900
+10       INDONESIA                                                     142073
+11       CANADA                                                        141744
+12       BRAZIL                                                        137548
+13       MEXICO                                                        134310
+14       SOUTH AFRICA                                                  128343
+15       UNITED KINGDOM                                                109974
+16       AUSTRALIA                                                      99599
+17       TURKEY                                                         95537
+18       ITALY (INCLUDING SAN MARINO)                                   90794
+19       FRANCE (INCLUDING MONACO)                                      84822
+20       POLAND                                                         78197
+21       THAILAND                                                       75579
+22       TAIWAN                                                         70695
+23       SPAIN                                                          68311
+24       KAZAKHSTAN                                                     65935
+25       MALAYSIA                                                       64037
+26       EGYPT                                                          61372
+27       UNITED ARAB EMIRATES                                           58369
+28       ARGENTINA                                                      54782
+29       UKRAINE                                                        53527
+30       VIET NAM                                                       51579
+31       PAKISTAN                                                       49744
+32       NETHERLANDS                                                    47164
+33       VENEZUELA                                                      46517
+34       IRAQ                                                           45616
+35       ALGERIA                                                        41731
+36       PHILIPPINES                                                    31939
+37       QATAR                                                          30402
+38       UZBEKISTAN                                                     28112
+39       CZECH REPUBLIC                                                 27282
+40       NIGERIA                                                        27096
+41       BELGIUM                                                        27069
+42       KUWAIT                                                         26176
+43       COLOMBIA                                                       22990
+44       CHILE                                                          22701
+45       BANGLADESH                                                     22097
+46       OMAN                                                           20525
+47       LIBYAN ARAB JAMAHIRIYAH                                        20325
+48       ROMANIA                                                        19547
+49       TURKMENISTAN                                                   19273
+50       ISRAEL                                                         18399
+51       GREECE                                                         17771
+52       SINGAPORE                                                      16758
+53       AUSTRIA                                                        16716
+54       MOROCCO                                                        16709
+55       BELARUS                                                        16178
+56       PERU                                                           14297
+57       PORTUGAL                                                       13523
+58       NORWAY                                                         12995
+59       TRINIDAD AND TOBAGO                                            12614
+60       BULGARIA                                                       12200
+61       HUNGARY                                                        12147
+62       SERBIA                                                         12057
+63       ECUADOR                                                        11816
+64       HONG KONG SPECIAL ADMINSTRATIVE REGION OF CHINA                11765
+65       FINLAND                                                        11528
+66       SWEDEN                                                         10471
+67       AZERBAIJAN                                                     10253
+68       IRELAND                                                         9792
+69       SWITZERLAND                                                     9721
+70       NEW ZEALAND                                                     9514
+71       ANGOLA                                                          9456
+72       BAHRAIN                                                         8970
+73       SLOVAKIA                                                        8531
+74       CUBA                                                            8466
+75       DENMARK                                                         8405
+76       TUNISIA                                                         8250
+77       SYRIAN ARAB REPUBLIC                                            7989
+78       JORDAN                                                          7145
+79       DEMOCRATIC PEOPLE S REPUBLIC OF KOREA                           6933
+80       MYANMAR (FORMERLY BURMA)                                        6628
+81       LEBANON                                                         6598
+82       DOMINICAN REPUBLIC                                              6550
+83       MONGOLIA                                                        6350
+84       BOSNIA & HERZEGOVINA                                            6119
+85       PLURINATIONAL STATE OF BOLIVIA                                  5501
+86       SRI LANKA                                                       5485
+87       CROATIA                                                         4722
+88       REPUBLIC OF SUDAN                                               4631
+89       KENYA                                                           4573
+90       ESTONIA                                                         4551
+91       GHANA                                                           4514
+92       GUATEMALA                                                       4332
+93       ETHIOPIA                                                        3741
+94       LITHUANIA                                                       3568
+95       UNITED REPUBLIC OF TANZANIA                                     3527
+96       SLOVENIA                                                        3417
+97       ZIMBABWE                                                        3341
+98       YEMEN                                                           3045
+99       PANAMA                                                          3041
+100      COTE D IVOIRE                                                   2989
+101      KYRGYZSTAN                                                      2849
+102      HONDURAS                                                        2708
+103      GEORGIA                                                         2656
+104      LUXEMBOURG                                                      2511
+105      AFGHANISTAN                                                     2450
+106      SENEGAL                                                         2439
+107      LAO PEOPLE S DEMOCRATIC REPUBLIC                                2386
+108      CAMBODIA                                                        2353
+109      JAMAICA                                                         2065
+110      COSTA RICA                                                      2049
+111      MACEDONIA                                                       1963
+112      BRUNEI (DARUSSALAM)                                             1937
+113      REPUBLIC OF CAMEROON                                            1924
+114      LATVIA                                                          1911
+115      EL SALVADOR                                                     1868
+116      URUGUAY                                                         1827
+117      MOZAMBIQUE                                                      1817
+118      CURACAO                                                         1744
+119      PARAGUAY                                                        1719
+120      NEPAL                                                           1705
+121      CYPRUS                                                          1674
+122      BENIN                                                           1654
+123      PAPUA NEW GUINEA                                                1636
+124      NICARAGUA                                                       1497
+125      BOTSWANA                                                        1481
+126      UGANDA                                                          1456
+127      EQUATORIAL GUINEA                                               1431
+128      ARMENIA                                                         1392
+129      TAJIKISTAN                                                      1364
+130      GABON                                                           1349
+131      REPUBLIC OF MOLDOVA                                             1348
+132      NEW CALEDONIA                                                   1342
+133      ALBANIA                                                         1325
+134      ZAMBIA                                                          1236
+135      MAURITIUS                                                       1149
+136      REUNION                                                         1136
+137      NAMIBIA                                                         1073
+138      MADAGASCAR                                                       994
+139      MALI                                                             876
+140      CONGO                                                            870
+141      BURKINA FASO                                                     850
+142      OCCUPIED PALESTINIAN TERRITORY                                   820
+143      HAITI                                                            800
+144      MAURITANIA                                                       789
+145      DEMOCRATIC REPUBLIC OF THE CONGO (FORMERLY ZAIRE)                774
+146      GUINEA                                                           737
+147      TOGO                                                             719
+148      LESOTHO                                                          658
+149      BAHAMAS                                                          639
+150      MARTINIQUE                                                       626
+151      GUADELOUPE                                                       614
+152      MONTENEGRO                                                       611
+153      FIJI                                                             609
+154      NIGER                                                            568
+155      GUYANA                                                           550
+156      ICELAND                                                          542
+157      MACAU SPECIAL ADMINSTRATIVE REGION OF CHINA                      533
+158      SURINAME                                                         472
+159      MALTA                                                            442
+160      MALDIVES                                                         358
+161      BARBADOS                                                         342
+162      LIBERIA                                                          338
+163      SIERRA LEONE                                                     291
+164      REPUBLIC OF SOUTH SUDAN                                          287
+165      BHUTAN                                                           285
+166      SWAZILAND                                                        275
+167      MALAWI                                                           273
+168      RWANDA                                                           262
+169      ARUBA                                                            245
+170      FRENCH POLYNESIA                                                 209
+171      SAINT MARTIN (DUTCH PORTION)                                     206
+172      ERITREA                                                          203
+173      CHAD                                                             200
+174      FRENCH GUIANA                                                    183
+175      DJIBOUTI                                                         174
+176      FAEROE ISLANDS                                                   166
+177      SOMALIA                                                          166
+178      BELIZE                                                           158
+179      GIBRALTAR                                                        154
+180      BERMUDA                                                          152
+181      CAYMAN ISLANDS                                                   152
+182      ANTIGUA & BARBUDA                                                149
+183      GAMBIA                                                           143
+184      GREENLAND                                                        139
+185      TIMOR-LESTE (FORMERLY EAST TIMOR)                                137
+186      CAPE VERDE                                                       136
+187      ANDORRA                                                          127
+188      SEYCHELLES                                                       124
+189      SAINT LUCIA                                                      112
+190      BONAIRE, SAINT EUSTATIUS, AND SABA                                89
+191      CENTRAL AFRICAN REPUBLIC                                          80
+192      SAMOA                                                             77
+193      GUINEA BISSAU                                                     76
+194      GRENADA                                                           71
+195      ST. KITTS-NEVIS                                                   64
+196      PALAU                                                             62
+197      BURUNDI                                                           61
+198      ST. VINCENT & THE GRENADINES                                      60
+199      TURKS AND CAICOS ISLANDS                                          56
+200      SOLOMON ISLANDS                                                   52
+201      BRITISH VIRGIN ISLANDS                                            49
+202      DOMINICA                                                          49
+203      COMOROS                                                           46
+204      ANGUILLA                                                          42
+205      FEDERATED STATES OF MICRONESIA                                    41
+206      MARSHALL ISLANDS                                                  39
+207      VANUATU                                                           36
+208      TONGA                                                             33
+209      SAO TOME & PRINCIPE                                               31
+210      ST. PIERRE & MIQUELON                                             21
+211      COOK ISLANDS                                                      17
+212      KIRIBATI                                                          17
+213      MONTSERRAT                                                        16
+214      FALKLAND ISLANDS (MALVINAS)                                       15
+215      NAURU                                                             13
+216      LIECHTENSTEIN                                                     12
+217      WALLIS AND FUTUNA ISLANDS                                          6
+218      SAINT HELENA                                                       3
+219      TUVALU                                                             3
+220      NIUE                                                               2

@@ -1,0 +1,16 @@
+ess-dive-aae0b5aa2d984c7-20210430T033939927774 (pdf)	data/ess-dive-aae0b5aa2d984c7-20210430T033939927774-METADATA.pdf
+ess-dive-50c7a2dc93f3bb9-20210430T033942635829	data/resourceMap_ess_dive_50c7a2dc93f3bb9_20210430T033942635829_
+ess-dive-aae0b5aa2d984c7-20210430T033939927774	data/Global_Regional_and_National_Fossil_Fuel_CO2_Emissions_1751_2017.xml
+ess-dive-49e77470caf46cd-20201109T153646850	data/top2017_cap.txt
+ess-dive-4cb68d22d237940-20200902T140537282	data/top2015_tot.txt
+ess-dive-0f12d5eeb827110-20200902T140537266	data/global_1751_2015.csv
+ess-dive-3bba61d2aa1df13-20200902T134026739	data/global_1751_2016.csv
+ess-dive-1f88884ec2d805e-20200902T134026753	data/top2016_cap.txt
+ess-dive-a1aaf0f3503cb83-20201109T153646839	data/global_1751_2017.csv
+ess-dive-1aeb9f8d7ba562d-20200902T140537277	data/top2015_cap.txt
+ess-dive-8cba29bc09bbb26-20201109T153646854	data/top2017_tot.txt
+ess-dive-aae0b5aa2d984c7-20210430T033939927774	data/Global_Regional_and_National_Fossil_Fuel_CO2_Emissions_1751_2017.xml
+ess-dive-3bc1596a802eaf8-20201109T153646845	data/nation_1751_2017.csv
+ess-dive-6f8441f97d432b7-20200902T140537273	data/nation_1751_2015.csv
+ess-dive-80464c3054ed9cc-20200902T134026750	data/nation_1751_2016.csv
+ess-dive-9af6b569cd9ff63-20200902T134026756	data/top2016_tot.txt

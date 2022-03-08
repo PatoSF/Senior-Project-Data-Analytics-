@@ -1,0 +1,3 @@
+Payload-Oxum: 2677794.15
+Bagging-Date: 2021-11-03
+Bag-Size: 2.6 MB

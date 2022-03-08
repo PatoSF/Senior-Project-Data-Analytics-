@@ -1,0 +1,15 @@
+daab6d4653eb83b376005dc449ca53f1  data/global_1751_2017.csv
+86d1b697d7eef1a3f97daad43b1413ae  data/nation_1751_2016.csv
+40bee1fb3ec9ef88780b247f6f09fb15  data/top2016_cap.txt
+2fda6eb96c9e8eb89cfeccbfea17c39a  data/top2016_tot.txt
+807643c2a781ad9ea52e9f34ff22e0ca  data/global_1751_2015.csv
+06115f35d7938b1c19db1a13740cd314  data/Global_Regional_and_National_Fossil_Fuel_CO2_Emissions_1751_2017.xml
+60ea3fd64d962adb4d10a132a1eb9adb  data/ess-dive-aae0b5aa2d984c7-20210430T033939927774-METADATA.pdf
+73ffb2c63762e5d193cc18c8b42b0415  data/top2017_cap.txt
+4eaa9991d7c95f22535edd8d56c56cd1  data/top2015_tot.txt
+c0c9843e866a4d2b68dadb1ed50e79f7  data/nation_1751_2015.csv
+efc849b9930b2d1f72adbba326c5d580  data/resourceMap_ess_dive_50c7a2dc93f3bb9_20210430T033942635829_
+b8c97846768537e73e41c534d59763ca  data/nation_1751_2017.csv
+b406cba2fe91971b2c1d5bab57c3f7c6  data/global_1751_2016.csv
+af85fffdd244c2ee6019b0fbae04850f  data/top2015_cap.txt
+c1e288fc8d94603cc287b64d90721339  data/top2017_tot.txt

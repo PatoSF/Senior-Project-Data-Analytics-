@@ -1,0 +1,233 @@
+Ranking of the world's countries by 2015 per capita fossil-fuel emission CO2
+emissions rates. National per capita estimates (CO2_CAP) are expressed in
+metric tons of carbon (not CO2). To convert these estimates to units of carbon
+dioxide (CO2), simply multiply these estimates by 3.667.
+
+SOURCE:  Dennis Gilfillan and Gregg Marland
+         Research Institute for Environment, Energy, and Economics
+         Appalachian State University
+         Boone, NC 28608-2131 USA
+With	 Tom Boden and Bob Andres, retired
+
+
+RANK     NATION                                                      CO2_CAP
+1        QATAR                                                          12.25
+2        CURACAO                                                        11.04
+3        TRINIDAD AND TOBAGO                                             9.27
+4        KUWAIT                                                          6.65
+5        BAHRAIN                                                         6.54
+6        UNITED ARAB EMIRATES                                            6.38
+7        SAUDI ARABIA                                                    6.35
+8        SAINT MARTIN (DUTCH PORTION)                                    5.28
+9        NEW CALEDONIA                                                   4.99
+10       FALKLAND ISLANDS (MALVINAS)                                     4.97
+11       OMAN                                                            4.89
+12       BRUNEI (DARUSSALAM)                                             4.63
+13       GIBRALTAR                                                       4.53
+14       LUXEMBOURG                                                      4.43
+15       UNITED STATES OF AMERICA                                        4.33
+16       AUSTRALIA                                                       4.18
+17       CANADA                                                          3.94
+18       KAZAKHSTAN                                                      3.71
+19       BONAIRE, SAINT EUSTATIUS, AND SABA                              3.55
+20       ST. PIERRE & MIQUELON                                           3.49
+21       TURKMENISTAN                                                    3.46
+22       ESTONIA                                                         3.46
+23       FAEROE ISLANDS                                                  3.38
+24       LIBYAN ARAB JAMAHIRIYAH                                         3.26
+25       REPUBLIC OF KOREA                                               3.22
+26       RUSSIAN FEDERATION                                              3.22
+27       MONTSERRAT                                                      3.18
+28       SINGAPORE                                                       3.03
+29       TAIWAN                                                          3.01
+30       PALAU                                                           2.95
+31       ANGUILLA                                                        2.79
+32       NETHERLANDS                                                     2.78
+33       CZECH REPUBLIC                                                  2.57
+34       CAYMAN ISLANDS                                                  2.53
+35       NORWAY                                                           2.5
+36       GREENLAND                                                       2.48
+37       JAPAN                                                           2.47
+38       BERMUDA                                                         2.44
+39       GERMANY                                                         2.43
+40       BELGIUM                                                          2.4
+41       ARUBA                                                           2.36
+42       SOUTH AFRICA                                                    2.32
+43       ISRAEL                                                          2.28
+44       ISLAMIC REPUBLIC OF IRAN                                        2.23
+45       MONGOLIA                                                        2.13
+46       FINLAND                                                          2.1
+47       MALAYSIA                                                        2.08
+48       IRELAND                                                         2.08
+49       NEW ZEALAND                                                     2.06
+50       POLAND                                                          2.04
+51       CHINA (MAINLAND)                                                1.98
+52       AUSTRIA                                                         1.93
+53       BOSNIA & HERZEGOVINA                                            1.73
+54       BELARUS                                                         1.71
+55       BULGARIA                                                         1.7
+56       UNITED KINGDOM                                                  1.68
+57       BAHAMAS                                                         1.65
+58       TURKS AND CAICOS ISLANDS                                        1.65
+59       SLOVENIA                                                        1.65
+60       ICELAND                                                         1.64
+61       ANDORRA                                                         1.63
+62       HONG KONG SPECIAL ADMINSTRATIVE REGION OF CHINA                 1.62
+63       MARTINIQUE                                                      1.62
+64       BRITISH VIRGIN ISLANDS                                          1.62
+65       GREECE                                                          1.58
+66       SLOVAKIA                                                        1.57
+67       ITALY (INCLUDING SAN MARINO)                                    1.52
+68       VENEZUELA                                                       1.49
+69       ANTIGUA & BARBUDA                                               1.49
+70       DENMARK                                                         1.48
+71       SPAIN                                                           1.47
+72       CYPRUS                                                          1.44
+73       GUADELOUPE                                                      1.36
+74       SERBIA                                                          1.36
+75       SEYCHELLES                                                      1.32
+76       REUNION                                                         1.32
+77       FRANCE (INCLUDING MONACO)                                       1.32
+78       PORTUGAL                                                         1.3
+79       CHILE                                                           1.28
+80       IRAQ                                                            1.26
+81       ARGENTINA                                                       1.26
+82       HUNGARY                                                         1.24
+83       TURKEY                                                          1.22
+84       EQUATORIAL GUINEA                                               1.22
+85       NAURU                                                           1.22
+86       LITHUANIA                                                       1.22
+87       BARBADOS                                                         1.2
+88       UKRAINE                                                          1.2
+89       ST. KITTS-NEVIS                                                 1.18
+90       SWITZERLAND                                                     1.17
+91       LEBANON                                                         1.13
+92       CROATIA                                                         1.11
+93       THAILAND                                                         1.1
+94       SWEDEN                                                          1.07
+95       MEXICO                                                          1.07
+96       AZERBAIJAN                                                      1.07
+97       ALGERIA                                                         1.05
+98       MALTA                                                           1.03
+99       COOK ISLANDS                                                    0.99
+100      ROMANIA                                                         0.98
+101      MONTENEGRO                                                      0.97
+102      LATVIA                                                          0.96
+103      MACEDONIA                                                       0.94
+104      MAURITIUS                                                       0.91
+105      UZBEKISTAN                                                      0.91
+106      MACAU SPECIAL ADMINSTRATIVE REGION OF CHINA                     0.89
+107      MALDIVES                                                        0.86
+108      SURINAME                                                        0.85
+109      NIUE                                                            0.84
+110      SAINT HELENA                                                    0.84
+111      JORDAN                                                          0.78
+112      PANAMA                                                          0.77
+113      FRENCH POLYNESIA                                                0.75
+114      MARSHALL ISLANDS                                                0.74
+115      CUBA                                                            0.74
+116      ECUADOR                                                         0.73
+117      TUNISIA                                                         0.73
+118      JAMAICA                                                         0.72
+119      GUYANA                                                          0.72
+120      GABON                                                            0.7
+121      FIJI                                                            0.68
+122      FRENCH GUIANA                                                   0.68
+123      GEORGIA                                                         0.67
+124      BOTSWANA                                                        0.67
+125      BRAZIL                                                          0.67
+126      DOMINICA                                                        0.67
+127      GRENADA                                                         0.67
+128      EGYPT                                                           0.65
+129      SAINT LUCIA                                                     0.63
+130      DOMINICAN REPUBLIC                                              0.62
+131      ST. VINCENT & THE GRENADINES                                    0.55
+132      VIET NAM                                                        0.55
+133      INDONESIA                                                       0.55
+134      URUGUAY                                                         0.53
+135      PLURINATIONAL STATE OF BOLIVIA                                  0.51
+136      WALLIS AND FUTUNA ISLANDS                                       0.49
+137      KYRGYZSTAN                                                      0.49
+138      INDIA                                                           0.48
+139      MOROCCO                                                         0.48
+140      ARMENIA                                                         0.48
+141      COLOMBIA                                                        0.48
+142      PERU                                                            0.46
+143      ALBANIA                                                         0.45
+144      NAMIBIA                                                         0.44
+145      BELIZE                                                          0.44
+146      SYRIAN ARAB REPUBLIC                                            0.43
+147      COSTA RICA                                                      0.43
+148      SAMOA                                                            0.4
+149      FEDERATED STATES OF MICRONESIA                                  0.39
+150      BHUTAN                                                          0.36
+151      LAO PEOPLE S DEMOCRATIC REPUBLIC                                0.36
+152      ANGOLA                                                          0.34
+153      LIECHTENSTEIN                                                   0.33
+154      REPUBLIC OF MOLDOVA                                             0.33
+155      PHILIPPINES                                                     0.31
+156      TONGA                                                           0.31
+157      LESOTHO                                                          0.3
+158      HONDURAS                                                         0.3
+159      EL SALVADOR                                                      0.3
+160      DEMOCRATIC PEOPLE S REPUBLIC OF KOREA                           0.27
+161      GUATEMALA                                                       0.27
+162      SRI LANKA                                                       0.26
+163      PAKISTAN                                                        0.26
+164      PARAGUAY                                                        0.26
+165      CAPE VERDE                                                      0.26
+166      NICARAGUA                                                       0.25
+167      TUVALU                                                          0.23
+168      ZIMBABWE                                                        0.21
+169      SWAZILAND                                                       0.21
+170      PAPUA NEW GUINEA                                                0.21
+171      MAURITANIA                                                      0.19
+172      DJIBOUTI                                                        0.19
+173      OCCUPIED PALESTINIAN TERRITORY                                  0.18
+174      CONGO                                                           0.17
+175      GHANA                                                           0.16
+176      SENEGAL                                                         0.16
+177      TAJIKISTAN                                                      0.16
+178      SAO TOME & PRINCIPE                                             0.16
+179      BENIN                                                           0.16
+180      CAMBODIA                                                        0.15
+181      NIGERIA                                                         0.15
+182      KIRIBATI                                                        0.15
+183      BANGLADESH                                                      0.14
+184      VANUATU                                                         0.14
+185      COTE D IVOIRE                                                   0.13
+186      MYANMAR (FORMERLY BURMA)                                        0.13
+187      REPUBLIC OF SUDAN                                               0.12
+188      YEMEN                                                           0.11
+189      TIMOR-LESTE (FORMERLY EAST TIMOR)                               0.11
+190      TOGO                                                             0.1
+191      KENYA                                                            0.1
+192      SOLOMON ISLANDS                                                 0.09
+193      REPUBLIC OF CAMEROON                                            0.08
+194      ZAMBIA                                                          0.08
+195      LIBERIA                                                         0.08
+196      HAITI                                                           0.07
+197      AFGHANISTAN                                                     0.07
+198      GAMBIA                                                          0.07
+199      UNITED REPUBLIC OF TANZANIA                                     0.07
+200      MOZAMBIQUE                                                      0.06
+201      GUINEA                                                          0.06
+202      NEPAL                                                           0.06
+203      COMOROS                                                         0.06
+204      MALI                                                            0.05
+205      BURKINA FASO                                                    0.05
+206      GUINEA BISSAU                                                   0.04
+207      ERITREA                                                         0.04
+208      MADAGASCAR                                                      0.04
+209      SIERRA LEONE                                                    0.04
+210      ETHIOPIA                                                        0.04
+211      UGANDA                                                          0.04
+212      NIGER                                                           0.03
+213      REPUBLIC OF SOUTH SUDAN                                         0.02
+214      RWANDA                                                          0.02
+215      CENTRAL AFRICAN REPUBLIC                                        0.02
+216      MALAWI                                                          0.02
+217      CHAD                                                            0.01
+218      SOMALIA                                                         0.01
+219      DEMOCRATIC REPUBLIC OF THE CONGO (FORMERLY ZAIRE)               0.01
+220      BURUNDI                                                         0.01
